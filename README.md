@@ -20,7 +20,7 @@
   - 💬 I am 21 years old, currently living in Brazil. I have experience with SQL, Python, C, and Machine Learning. I'm also chasing my dream of a job that I enjoy and eventually living abroad outside of Brazil.
 
 
-  - ⚡ I enjoy ...
+  - ⚡ I like books, audiobooks, phisical activities and any leisure with my friends.
 </details>
 
 <!-- Links -->
